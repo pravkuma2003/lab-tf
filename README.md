@@ -11,3 +11,5 @@ This is a comment - just added
 Added on Dec 6th 2
 
 Updated on Git direct
+
+Updated on Git2
