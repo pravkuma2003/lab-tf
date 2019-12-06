@@ -12,8 +12,5 @@ Added on Dec 6th 2
 
 Updated on Git direct
 
-<<<<<<< HEAD
 Updated Locally
-=======
 Updated on Git2
->>>>>>> aa83e861766d5394cb16b94541c8761d1cb05d18
